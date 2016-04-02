@@ -10,4 +10,4 @@ a chain of responsibility.
 
 #Class Diagram of the Domain Model
 
-
+![alt tag](https://raw.githubusercontent.com/JasonMcKay/Assignment-5/master/model.png)
